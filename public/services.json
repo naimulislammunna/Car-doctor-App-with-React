@@ -1,0 +1,27 @@
+[
+    {
+        "service_id": "1",
+        "title": "Engine Oil Change",
+        "img": "https://i.postimg.cc/ZRSdh2VN/1.jpg",
+        "price": "20.00",
+        "description": "The completed services are usually recorded in a service book or digital service record upon completion of each service. A digital service record is an online record of a vehicle's maintenance history.[1] A complete service history usually adds to the resale value of a vehicle. Difference between major and full service: a major service is more comprehensive than a full service; although it covers all the same checks that a full service does, a major service will be more detailed and will include more replacements of wearable parts, such as pollen filters, and changing brake fluid if required.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    }
+]

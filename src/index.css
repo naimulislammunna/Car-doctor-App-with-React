@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  max-width: 1440px;
+  font-family: "Inter", sans-serif;
+}
+.home-container{
+  width: 90%;
+  margin: 15px auto;
+}
+.button{
+  background-color: #FF3811;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+.button-2{
+  color: #FF3811;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  border: 1px solid #FF3811;
+  border-radius: 0.5rem;
+}
+
+@media screen and (min-width: 640px) {
+  .home-container{
+      max-width: 1170px;
+      width: 85%;
+      margin: 40px auto;
+  }
+}
